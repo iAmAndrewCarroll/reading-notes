@@ -37,7 +37,7 @@ Axé & Amen.
 
 ![Here for a great time with great people! Axé all day!](./4901FE86-F0C2-4AE7-B884-4B7596351F95.png)
 
-## Let's Connect & Collaborate
+## Let's Connect & Collaborate! Poet, Author, Speaker, Vocalist, Actor & Model Andrew Thomas Carroll
 ### Social Media:
 - **facebook:** [iAmAndrewCarroll](https://www.facebook.com/iamandrewcarroll)
 - **instagram:** [iAmAndrewCarroll](https://www.instagram.com/iamandrewcarroll/)
