@@ -33,7 +33,7 @@
       - Markdown can be used for everything! Websites, documents, notes, you name it!
       + Markdown interacts well across most platforms! iOS, Microsoft, etc.
       * Can be read by any text editor making it future proof!
-      
+      <sub>Nice list! You can use `- + or *` to create unordered lists!
       
       
 
