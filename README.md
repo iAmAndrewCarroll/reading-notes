@@ -43,8 +43,8 @@ Axé & Amen.
 - **instagram:** [iAmAndrewCarroll](https://www.instagram.com/iamandrewcarroll/)
 - **yOUtUBE:** [iAmAndrewCarroll](https://www.youtube.com/@Iamandrewcarroll)
 - **SoundCloud:** [iAmAndrewCarroll](https://soundcloud.com/iamandrewcarroll)
-- **Support the cause. Buy my Poetry:** [Scared Little Poet](https://books2read.com/u/mgPBVR)
-- **Support the cause.  By my book The Three I's:** [The Three I's](https://www.amazon.com/Three-Intelligently-Intentionally-Immediate-Success/dp/109396538X)
+- **Support the cause.** [Buy my Poetry: Scared Little Poet](https://books2read.com/u/mgPBVR)
+- **Support the cause.** [By my book The Three I's:](https://www.amazon.com/Three-Intelligently-Intentionally-Immediate-Success/dp/109396538X)
 
 
 ### Link to my Github Portfolio: [iAmAndrewCarroll](https://iamandrewcarroll.github.io/reading-notes/)
