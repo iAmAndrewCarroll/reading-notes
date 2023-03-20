@@ -1,6 +1,6 @@
-# Markdown Basics For The Newb
+# Markdown Basics For The Newb `# is the command for heading 1`
 
-## What is Markdown?
+## What is Markdown? `## is the command for heading 2`
    - Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. 
    Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
    - [Who Is John Gruber?](https://daringfireball.net/projects/markdown/)
@@ -20,7 +20,7 @@
   <sub>A best practice for **bold** and *italics* is to always use the asterisk!</sub>
   
   ## Pretty Cool So Far!  But What if I want something more visually engaging?
-  ### Best to add a couple images!
+  ### Best to add a couple images! `### is the command for heading 3`
   
   <img src="https://github.com/iAmAndrewCarroll/reading-notes/blob/main/3E1CB7AB-E6FB-4148-A0BB-075760EEBC43.PNG" width=25% height=25%> <img src="https://github.com/iAmAndrewCarroll/reading-notes/blob/main/4901FE86-F0C2-4AE7-B884-4B7596351F95.png" width=25% height=25%>
   
@@ -30,10 +30,11 @@
   ```
   
   ### But why do we use Markdown?
-      - Markdown can be used for everything! Websites, documents, notes, you name it!
-      + Markdown interacts well across most platforms! iOS, Microsoft, etc.
-      * Can be read by any text editor making it future proof!
-      <sub>Nice list! You can use `- + or *` to create unordered lists!</sub>
+  - Markdown can be used for everything! Websites, documents, notes, you name it!
+  - Markdown interacts well across most platforms! iOS, Microsoft, etc.
+  - Can be read by any text editor making it future proof!
+  
+  <sub>Nice list! You can use `- * or +` to make unordered lists!
       
       
 
