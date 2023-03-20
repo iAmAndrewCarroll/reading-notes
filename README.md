@@ -13,4 +13,4 @@ Code Fellows Reading Journal
    - Am I approaching this problem in a way that achieves the desired result?
    - How does my piece of this puzzle fit with the rest?
 
-[Link to my Github Portfolio: (https://github.com/iAmAndrewCarroll)]
+Link to my Github Portfolio: [(https://github.com/iAmAndrewCarroll)]
