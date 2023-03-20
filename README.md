@@ -37,7 +37,14 @@ Axé & Amen.
 
 ![Here for a great time with great people! Axé all day!](./4901FE86-F0C2-4AE7-B884-4B7596351F95.png)
 
-## Let's Connect & Collaborate! Poet, Author, Speaker, Vocalist, Actor & Model Andrew Thomas Carroll
+| **Education**  | **Institution** | **Year** |
+|-------------------------|-------------------------|-------------------------|
+| Associate's Information Sys. Mgmt. | Community College of the Air Force | 2011|
+| Bachelor's in Economics | Montana State University | 2014 |
+| Master's in Management & Leadership | Western Governors University | 2021 |
+
+## Let's Connect & Collaborate! Poet, Author, Speaker, Vocalist, Actor & Model
+
 ### Social Media:
 - **facebook:** [iAmAndrewCarroll](https://www.facebook.com/iamandrewcarroll)
 - **instagram:** [iAmAndrewCarroll](https://www.instagram.com/iamandrewcarroll/)
