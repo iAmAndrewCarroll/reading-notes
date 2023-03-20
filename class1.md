@@ -24,13 +24,13 @@
 
 ### Best to add a couple images! `### is the command for heading 3`
   
-<img src="https://github.com/iAmAndrewCarroll/reading-notes/blob/main/3E1CB7AB-E6FB-4148-A0BB-075760EEBC43.PNG" width=25% height=25%>
+<img src="https://github.com/iAmAndrewCarroll/reading-notes/blob/main/3E1CB7AB-E6FB-4148-A0BB-075760EEBC43.PNG" width=25% height=25%/>
 
-<img src="https://github.com/iAmAndrewCarroll/reading-notes/blob/main/4901FE86-F0C2-4AE7-B884-4B7596351F95.png" width=25% height=25%>
+<img src="https://github.com/iAmAndrewCarroll/reading-notes/blob/main/4901FE86-F0C2-4AE7-B884-4B7596351F95.png" width=25% height=25%/>
   
 ### Looking Good!  But how did you do that?!  The markdown image code didn't allow me to resize images!
 ```
-<img src="copy and pase the url of the image directly uploaded to github here" width=xx% height=xx%>
+<img src="copy and pase the url of the image directly uploaded to github here" width=xx% height=xx%/>
 ```
   
 ### But why do we use Markdown?
