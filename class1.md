@@ -18,15 +18,16 @@
 | `** **` | `**Bold**`  | **Bold** |
 | `* *`    | `*Italics*` | *Italics* |
 | ` [txt](url) `  | `[Click Here](Link URL)` |  [Click Here](https://iamandrewcarroll.github.io/reading-notes/)  |
+
 <sub>A best practice for **bold** and *italics* is to always use the asterisk!</sub>
   
 ## Pretty Cool So Far!  But What if I want something more visually engaging?
 
 ### Best to add a couple images! `### is the command for heading 3`
   
-<img src="3E1CB7AB-E6FB-4148-A0BB-075760EEBC43.PNG" alt="good times" width=25% height=25%/>
+<img src="3E1CB7AB-E6FB-4148-A0BB-075760EEBC43.PNG" alt="good times" width="25%" height="25%"/>
 
-<img src="4901FE86-F0C2-4AE7-B884-4B7596351F95.png" alt="laugh it off" width=25% height=25%/>
+<img src="4901FE86-F0C2-4AE7-B884-4B7596351F95.png" alt="laugh it off" width="25%" height="25%"/>
   
 ### Looking Good!  But how did you do that?!  The markdown image code didn't allow me to resize images!
 ```
