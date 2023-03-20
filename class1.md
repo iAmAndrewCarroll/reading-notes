@@ -12,10 +12,15 @@
   modify the text, appearance and style of the file display to the end user.
   
   # What are some basic commands and what do they do?
-  |  ## Command  |  ## Example  |  ## Output  |
+  |  **Command**  |  **Example**  |  **Output**  |
   | ------- | ------- | ------ |
   | `** **` | `**Bold**`  | **Bold** |
   | `* *`    | `*Italics*` | *Italics* |
-  | ` ### `  | `### Heading 3` |  ### Heading 3  |
+  | ` [txt](url) `  | `[Click Here](Link URL)` |  [Click Here](https://iamandrewcarroll.github.io/reading-notes/)  |
+  
+  ## Pretty Cool So Far!  But What if I want something more visually engaging?
+  ###Best to add a couple images!
+  
+  
   
   
