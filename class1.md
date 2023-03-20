@@ -13,11 +13,11 @@
   
 # What are some basic commands and what do they do?
   
-|  **Command**  |  **Example**  |  **Output**  |
+| **Command** | **Example** | **Output** |
 | ------- | ------- | ------ |
-| `** **` | `**Bold**`  | **Bold** |
-| `* *`    | `*Italics*` | *Italics* |
-| ` [txt](url) `  | `[Click Here](Link URL)` |  [Click Here](https://iamandrewcarroll.github.io/reading-notes/)  |
+| `** **` | `**Bold**` | **Bold** |
+| `* *` | `*Italics*` | *Italics* |
+| `[txt](url)`| `[Click Here](Link URL)` | [Click Here](https://iamandrewcarroll.github.io/reading-notes/) |
 
 <sub>A best practice for **bold** and *italics* is to always use the asterisk!</sub>
   
