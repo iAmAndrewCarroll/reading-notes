@@ -13,12 +13,12 @@
   
 # What are some basic commands and what do they do?
   
-  |  **Command**  |  **Example**  |  **Output**  |
-  | ------- | ------- | ------ |
-  | `** **` | `**Bold**`  | **Bold** |
-  | `* *`    | `*Italics*` | *Italics* |
-  | ` [txt](url) `  | `[Click Here](Link URL)` |  [Click Here](https://iamandrewcarroll.github.io/reading-notes/)  |
-  <sub>A best practice for **bold** and *italics* is to always use the asterisk!</sub>
+|  **Command**  |  **Example**  |  **Output**  |
+| ------- | ------- | ------ |
+| `** **` | `**Bold**`  | **Bold** |
+| `* *`    | `*Italics*` | *Italics* |
+| ` [txt](url) `  | `[Click Here](Link URL)` |  [Click Here](https://iamandrewcarroll.github.io/reading-notes/)  |
+<sub>A best practice for **bold** and *italics* is to always use the asterisk!</sub>
   
 ## Pretty Cool So Far!  But What if I want something more visually engaging?
 
