@@ -51,7 +51,7 @@ the very least before you commit to the bare bones babies.
 - mkdir: make directory quite literally makes a new directory
 - touch: commonly used for file creation this commands primary function is for timestamping
 
-### Expalain What is happening in the following scenarios:
+### Explain What is happening in the following scenarios:
 - cd projects: the directory is changed to *projects*
 - mkdir new-projects: a new directory is created named *new_project*
 - touch new-project/newfile.md: a new file, *newfile.md* is created within *new-project* directory
