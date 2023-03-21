@@ -41,6 +41,7 @@ the very least before you commit to the bare bones babies.
 ### IDE
 - IDE is short for Integrated Development Environment
 - Includes a text editor, compiler, debugger and file manager all in one
+
 ### Text Editor
 - Exactly that!
 
