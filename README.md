@@ -55,3 +55,12 @@ Axé & Amen.
 
 
 ### Link to my Github Portfolio: [iAmAndrewCarroll](https://iamandrewcarroll.github.io/reading-notes/)
+
+## Table of Contents
+
+### Code 102 Reading Notes
+1. [Day 1](102/102-1.md)
+2. [Day 2](102/102-2.md)
+3. [Day 3](102/102-3.md)
+4. [Day 4](102/102-4.md)
+### Code 201 Reading Notes
