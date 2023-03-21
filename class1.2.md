@@ -44,7 +44,7 @@ the very least before you commit to the bare bones babies.
 ### Text Editor
 - Exactly that!
 
-### So What do the following Commands Even Do?
+### So What do the following commands even do?
 - pwd: full path to the current working directory
 - ls: lists information about directories and files in the working directory
 - cd: changes the current directory of the terminal
