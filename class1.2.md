@@ -15,6 +15,8 @@ Kind of like texting on yoru smartphone.
 upon review.  This really helps with review and error checks.
 - *Themes:* Themes allow you to change the color display of the text editor.  This can help
 reduce eyestrain and make the work environment feel a bit more comfortable and cozy.
+- *Extensions:* Allows you to add functionality and power within the text editor environment
+as your skills and condfidence grow!
 
 ### Great!  That is really healpful...but don't I already have Notepad or Text Editor?!
 The simple answer is...**Of Course!**  On a *Windows* device you will have *Notepad* and on *Mac OS*
@@ -28,5 +30,33 @@ the very least before you commit to the bare bones babies.
 | **Editor** | **OS Environment** | **Cost** |
 | ---------- | ------------------ | -------- |
 | Notepad++ | Windows | Free |
-| 
+| TextWrangler | Mac | Retired (Undefeated) |
+| BB Edit | Win & Mac | $49.99|
+| Visual Studio Code | Win, Mac & Linux | Free|
+| Atom | Win, Mac & Linux | Free |
+| Brackets | Win, Mac & Linux | DNK |
+| Sublime Text 3 | DNK | $70 |
+
+## IDE vs Text Editor
+### IDE
+- IDE is short for Integrated Development Environment
+- Includes a text editor, compiler, debugger and file manager all in one
+### Text Editor
+- Exactly that!
+
+### So What do the following Commands Even Do?
+- pwd: full path to the current working directory
+- ls: lists information about directories and files in the working directory
+- cd: changes the current directory of the terminal
+- mkdir: make directory quite literally makes a new directory
+- touch: commonly used for file creation this commands primary function is for timestamping
+
+### Expalain What is happening in the following scenarios:
+- cd projects: the directory is changed to *projects*
+- mkdir new-projects: a new directory is created named *new_project*
+- touch new-project/newfile.md: a new file, *newfile.md* is created within *new-project* directory
+- cd ..: the current directory is moved two levels up
+- ls projects/new-project: returns information on directories and files within *projects/new-projects
+
+
 
