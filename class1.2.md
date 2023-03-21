@@ -56,7 +56,7 @@ the very least before you commit to the bare bones babies.
 - cd projects: the directory is changed to *projects*
 - mkdir new-projects: a new directory is created named *new_project*
 - touch new-project/newfile.md: a new file, *newfile.md* is created within *new-project* directory
-- cd ..: the current directory is moved two levels up
+- cd ..: change to the parent directory of the current directory
 - ls projects/new-project: returns information on directories and files within *projects/new-projects
 
 
