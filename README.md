@@ -59,8 +59,30 @@ Axé & Amen.
 ## Table of Contents
 
 ### Code 102 Reading Notes
-1. [Day 1](102/102-1.md)
-2. [Day 2](102/102-2.md)
-3. [Day 3](102/102-3.md)
-4. [Day 4](102/102-4.md)
+1. [Day 1 - Learning Markdown](102/102-1.md)
+2. [Day 2 - The Coder's Computer](102/102-2.md)
+3. [Day 3 - Revisions and the Cloud](102/102-3.md)
+4. [Day 4 - Structure Web Pages with HTML ](102/102-4.md)
+5. [Day 5 - Design Web Pages with CSS](102/102-5.md)
+6. [Day 6 - Activate Dynamic Web Pages with JavaScript](102/102-6.md)
+7. [Day 7 - Programming with Javascript](102/102-7.md)
+8. [Day 8 - Operators and Loops](102/102-8.md)
+
 ### Code 201 Reading Notes
+1. [Day 1](201/201-1.md)
+2. [Day 2](201/201-2.md)
+3. [Day 3](201/201-3.md)
+4. [Day 4](201/201-4.md)
+5. [Day 5](201/201-5.md)
+6. [Day 6](201/201-6.md)
+7. [Day 7](201/201-7.md)
+8. [Day 8](201/201-8.md)
+9. [Day 9](201/201-9.md)
+10. [Day 10](201/201-10.md)
+11. [Day 11](201/201-11.md)
+12. [Day 12](201/201-12.md)
+13. [Day 13](201/201-13.md)
+14. [Day 14](201/201-14.md)
+15. [Day 15](201/201-15.md)
+
+
