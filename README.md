@@ -35,7 +35,7 @@ health and Andrew has an intimate understanding of what it
 takes to stay lean and healthy after a lifetime of self abuse.
 Axé & Amen.
 
-![Here for a great time with great people! Axé all day!](./Pics/smile.png)
+![Here for a great time with great people! Axé all day!](./pics/smile.png)
 
 | **Education**  | **Institution** | **Year** |
 |-------------------------|-------------------------|-------------------------|
