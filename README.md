@@ -58,7 +58,7 @@ Axé & Amen.
 
 ## Table of Contents
 
-### Code 102 Reading Notes
+## Code 102 Reading Notes
 1. [Day 1 - Learning Markdown](102/102-1.md)
 2. [Day 2 - The Coder's Computer](102/102-2.md)
 3. [Day 3 - Revisions and the Cloud](102/102-3.md)
@@ -68,7 +68,7 @@ Axé & Amen.
 7. [Day 7 - Programming with Javascript](102/102-7.md)
 8. [Day 8 - Operators and Loops](102/102-8.md)
 
-### Code 201 Reading Notes
+## Code 201 - Foundations of Software Development: Reading Notes
 1. [Day 1](201/201-1.md)
 2. [Day 2](201/201-2.md)
 3. [Day 3](201/201-3.md)
@@ -84,5 +84,11 @@ Axé & Amen.
 13. [Day 13](201/201-13.md)
 14. [Day 14](201/201-14.md)
 15. [Day 15](201/201-15.md)
+
+## Code 301 - Intermediate Software Development: Reading Notes
+
+## Code 401a - Advanced Software Development: Python - Reading Notes
+
+## Code 401b - Advanced Software Development: JavaScript - Reading Notes
 
 
