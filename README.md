@@ -83,6 +83,9 @@ Axé & Amen.
 12. [Day 12](201/201-12.md)
 13. [Day 13](201/201-13.md)
 14. [Day 14](201/201-14.md)
+
+    - [Psychological Safety](201/PsychologicalSafety.md)
+
 15. [Day 15](201/201-15.md)
 
 ## Code 301 - Intermediate Software Development: Reading Notes
