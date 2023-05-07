@@ -89,6 +89,21 @@ Axé & Amen.
 15. [Day 15](201/201-15.md)
 
 ## Code 301 - Intermediate Software Development: Reading Notes
+1. [Day 1](301/301-1.md)
+2. [Day 2](301/301-2.md)
+3. [Day 3](301/301-3.md)
+4. [Day 4](301/301-4.md)
+5. [Day 5](301/301-5.md)
+6. [Day 6](301/301-6.md)
+7. [Day 7](301/301-7.md)
+8. [Day 8](301/301-8.md)
+9. [Day 9](301/301-9.md)
+10. [Day 10](301/301-10.md)
+11. [Day 11](301/301-11.md)
+12. [Day 12](301/301-12.md)
+13. [Day 13](301/301-13.md)
+14. [Day 14](301/301-14.md)
+15. [Day 15](301/301-15.md)
 
 ## Code 401a - Advanced Software Development: Python - Reading Notes
 
