@@ -1,4 +1,4 @@
 # Ready For Review
 
-![CAP-Resume Img](capresume.png "CAP Resume")
+![CAP-Resume Img](../pics/CAPresume.png "CAP Resume")
 
