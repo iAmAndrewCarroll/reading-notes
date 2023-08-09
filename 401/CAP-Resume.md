@@ -1,4 +1,4 @@
 # Ready For Review
 
-![CAP_Resume Img](../pics/CAPresume.png)
+![CAP-Resume Img](../../pics/CAPresume.png "resume with comment")
 
