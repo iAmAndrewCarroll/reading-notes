@@ -1,3 +1,5 @@
+Ops Starts on Monday 10/9!!
+
 # Reading-Notes
 Code Fellows Reading Journal
 
